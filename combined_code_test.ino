@@ -6,9 +6,9 @@
 #include <TinyGPS.h>
 #include <Arduino_LSM6DS3.h>
 
-#define USERNAME "hamalsheraifi4"
-#define DEVICE_ID "arduinoRev2"
-#define DEVICE_CREDENTIAL "first_credential"
+#define USERNAME "USERNAME"
+#define DEVICE_ID "DEVICE_ID"
+#define DEVICE_CREDENTIAL "DEVICE_CREDENTIAL"
 
 #define SSID "SSID-NAME"
 #define SSID_PASSWORD "SSID-PASSWORD"
